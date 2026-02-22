@@ -1,0 +1,12 @@
+rootProject.name = 'hospitality-pms'
+
+include 'config-server'
+include 'eureka-server'
+include 'api-gateway'
+include 'common'
+include 'auth-service'
+include 'property-service'
+include 'reservation-service'
+include 'billing-service'
+include 'notification-service'
+include 'report-service'
